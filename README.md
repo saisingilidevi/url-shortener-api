@@ -1,3 +1,8 @@
+<img width="1919" height="1026" alt="Screenshot 2026-05-08 140546" src="https://github.com/user-attachments/assets/f6130722-82d2-4564-8212-8250e4e60668" />
+<img width="1919" height="1023" alt="Screenshot 2026-05-08 140523" src="https://github.com/user-attachments/assets/f186dae5-9950-4078-be36-4a779f631c7e" />
+<img width="1915" height="1020" alt="Screenshot 2026-05-08 140446" src="https://github.com/user-attachments/assets/ac3b51e8-9b4c-482a-8552-afe6aed33777" />
+<img width="1919" height="1020" alt="Screenshot 2026-05-08 140411" src="https://github.com/user-attachments/assets/5817da5a-6684-4d9b-9891-095db613f838" />
+<img width="1919" height="1019" alt="Screenshot 2026-05-08 140349" src="https://github.com/user-attachments/assets/1f78c14e-7afc-49ed-8862-3a466694a721" />
 # 🔗 URL Shortener API
 
 A production-style REST API built with **FastAPI** that shortens long URLs, tracks click analytics, and supports custom aliases and link expiry.
